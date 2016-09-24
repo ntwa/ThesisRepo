@@ -9,6 +9,35 @@
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@article{lieberman2006dance,
+  title={Dance games and other exergames: What the research says},
+  author={Lieberman, Debra A},
+  year={2006},
+  publisher={Citeseer}
+}
+
+@inproceedings{gobel2010serious,
+  title={Serious games for health: personalized exergames},
+  author={G{\"o}bel, Stefan and Hardy, Sandro and Wendel, Viktor and Mehm, Florian and Steinmetz, Ralf},
+  booktitle={Proceedings of the 18th ACM international conference on Multimedia},
+  pages={1663--1666},
+  year={2010},
+  organization={ACM}
+}
+
+@article{graves2010physiological,
+  title={The physiological cost and enjoyment of Wii Fit in adolescents, young adults, and older adults},
+  author={Graves, Lee EF and Ridgers, Nicola D and Williams, Karen and Stratton, Gareth and Atkinson, Greg T},
+  journal={Journal of physical activity \& health},
+  volume={7},
+  number={3},
+  pages={393--401},
+  year={2010},
+  publisher={Human Kinetics}
+}
+
+
+
 @inproceedings{bailur2010liminal,
   title={The liminal role of the information intermediary in community multimedia centres},
   author={Bailur, Savita},
@@ -424,6 +453,13 @@
   organization={ACM}
 }
 
+@article{oh2010defining,
+  title={Defining exergames \& exergaming},
+  author={Oh, Yoonsin and Yang, Stephen},
+  journal={Proceedings of Meaningful Play},
+  pages={1--17},
+  year={2010}
+}
 
 @article{mattila2008mobile,
   title={Mobile diary for wellness management—results on usage and usability in two user studies},
