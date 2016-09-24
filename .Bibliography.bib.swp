@@ -25,6 +25,15 @@
   organization={ACM}
 }
 
+@inproceedings{saksono2015spaceship,
+  title={Spaceship Launch: Designing a Collaborative Exergame for Families},
+  author={Saksono, Herman and Ranade, Ashwini and Kamarthi, Geeta and Castaneda-Sceppa, Carmen and Hoffman, Jessica A and Wirth, Cathy and Parker, Andrea G},
+  booktitle={Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work \& Social Computing},
+  pages={1776--1787},
+  year={2015},
+  organization={ACM}
+}
+
 @article{graves2010physiological,
   title={The physiological cost and enjoyment of Wii Fit in adolescents, young adults, and older adults},
   author={Graves, Lee EF and Ridgers, Nicola D and Williams, Karen and Stratton, Gareth and Atkinson, Greg T},
