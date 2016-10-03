@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: acmdev2016.aux
+The style file: abbrv.bst
+Database file #1: sigproc.bib
+I was expecting a `,' or a `}'---line 143 of file sigproc.bib
+ :   year={2011}
+ :              ",
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 942 of file sigproc.bib
+ :  pages = "9-15",@article
+ :                         {power2011obesity,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "cafazzo:bant"
+Name 3 in "James J Lin and Lena Mamykina and Silvia Lindtner, and Gregory Delajoux and Henry B Strub" has a comma at the end for entry lin2006:fish
+while executing---line 1049 of file abbrv.bst
+Name 5 in "Matthew Kam and Aishvarya Agarwal and Anuj Kumar and Siddhartha Lal and Akhil Mathur, and Anuj Tewari and John Canny" has a comma at the end for entry kam2008designing
+while executing---line 1049 of file abbrv.bst
+Warning--there's a number but no volume in arteaga2010:persuasive
+Warning--empty year in deterding2011game
+Name 5 in "Matthew Kam and Aishvarya Agarwal and Anuj Kumar and Siddhartha Lal and Akhil Mathur, and Anuj Tewari and John Canny" has a comma at the end for entry kam2008designing
+while executing---line 1090 of file abbrv.bst
+Warning--empty booktitle in klasnja2009:using
+Name 3 in "James J Lin and Lena Mamykina and Silvia Lindtner, and Gregory Delajoux and Henry B Strub" has a comma at the end for entry lin2006:fish
+while executing---line 1090 of file abbrv.bst
+You've used 46 entries,
+            2118 wiz_defined-function locations,
+            757 strings with 12412 characters,
+and the built_in function-call counts, 17160 in all, are:
+= -- 1665
+> -- 815
+< -- 16
++ -- 325
+- -- 274
+* -- 1206
+:= -- 2762
+add.period$ -- 150
+call.type$ -- 46
+change.case$ -- 272
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 684
+empty$ -- 1367
+format.name$ -- 274
+if$ -- 3731
+int.to.chr$ -- 0
+int.to.str$ -- 46
+missing$ -- 46
+newline$ -- 231
+num.names$ -- 92
+pop$ -- 307
+preamble$ -- 1
+purify$ -- 228
+quote$ -- 0
+skip$ -- 485
+stack$ -- 0
+substring$ -- 997
+swap$ -- 188
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 180
+warning$ -- 3
+while$ -- 146
+width$ -- 48
+write$ -- 510
+(There were 6 error messages)
