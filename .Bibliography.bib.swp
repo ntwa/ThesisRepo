@@ -9,6 +9,25 @@
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@incollection{silva2014:smartphones,
+  TITLE="Smartphones, smart seniors, but not-so-smart apps: A heuristic evaluation of fitness apps",
+  AUTHOR="Paula Alexandra Silva and Kelly Holden and Aska Nii",
+  BOOKTITLE="Foundations of Augmented Cognition. Advancing Human Performance and Decision-Making through Adaptive Systems",
+  PAGES="347-358",
+  MONTH="June",
+  YEAR={2014},
+  PUBLISHER="Springer"
+}
+
+@incollection{brauner2013increase,
+  title={Increase physical fitness and create health awareness through exergames and gamification},
+  author={Brauner, Philipp and Valdez, Andr{\'e} Calero and Schroeder, Ulrik and Ziefle, Martina},
+  booktitle={Human Factors in Computing and Informatics},
+  pages={349--362},
+  year={2013},
+  publisher={Springer}
+}
+
 @article{pollak2010s,
   title={It's time to eat! Using mobile games to promote healthy eating},
   author={Pollak, John and Gay, Geri and Byrne, Sahara and Wagner, Emily and Retelny, Daniela and Humphreys, Lee},
