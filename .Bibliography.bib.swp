@@ -9,6 +9,94 @@
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@article{pollak2010s,
+  title={It's time to eat! Using mobile games to promote healthy eating},
+  author={Pollak, John and Gay, Geri and Byrne, Sahara and Wagner, Emily and Retelny, Daniela and Humphreys, Lee},
+  journal={IEEE Pervasive Computing},
+  volume={9},
+  number={3},
+  pages={21--27},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{blackman2016developing,
+  title={Developing Mobile Apps for Physical Activity in Low Socioeconomic Status Youth},
+  author={Blackman, Kacie CA and Zoellner, Jamie and McCrickard, D Scott and Harlow, Judith and Winchester III, Woodrow W and Hill, Jennie L and You, Wen and Estabrooks, Paul A},
+  journal={Journal of Mobile Technology in Medicine},
+  volume={5},
+  number={1},
+  pages={33--44},
+  year={2016}
+}
+
+
+@article{cafazzo2012:bant,
+  title="Design of an mHealth app for the self-management of adolescent type 1 diabetes: a pilot study",
+  author="Joseph A Cafazzo and Mark Casselman and Nathaniel Hamming and Debra K Katzman  and Mark R Palmert",
+  journal="Journal of medical Internet research",
+  volume="14",
+  number="3",
+  pages="e70",
+  month="May",
+  year={2012},
+  publisher="JMIR Publications Inc., Toronto, Canada"
+  
+}
+
+@article{berkovsky2012physical,
+  title={Physical activity motivating games: be active and get your own reward},
+  author={Berkovsky, Shlomo and Freyne, Jill and Coombe, Mac},
+  journal={ACM Transactions on Computer-Human Interaction (TOCHI)},
+  volume={19},
+  number={4},
+  pages={32},
+  year={2012},
+  publisher={ACM}
+}
+
+@inproceedings{albaina2009flowie,
+  title={Flowie: A persuasive virtual coach to motivate elderly individuals to walk},
+  author={Albaina, I{\~n}aki Merino and Visser, Thomas and van der Mast, Charles APG and Vastenburg, Martijn H},
+  booktitle={2009 3rd International Conference on Pervasive Computing Technologies for Healthcare},
+  pages={1--7},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{fujiki2008neat,
+  title={NEAT-o-Games: blending physical activity and fun in the daily routine},
+  author={Fujiki, Yuichi and Kazakos, Konstantinos and Puri, Colin and Buddharaju, Pradeep and Pavlidis, Ioannis and Levine, James},
+  journal={Computers in Entertainment (CIE)},
+  volume={6},
+  number={2},
+  pages={21},
+  year={2008},
+  publisher={ACM}
+}
+
+
+@article{bravata2007using,
+  title={Using pedometers to increase physical activity and improve health: a systematic review},
+  author={Bravata, Dena M and Smith-Spangler, Crystal and Sundaram, Vandana and Gienger, Allison L and Lin, Nancy and Lewis, Robyn and Stave, Christopher D and Olkin, Ingram and Sirard, John R},
+  journal={Jama},
+  volume={298},
+  number={19},
+  pages={2296--2304},
+  year={2007},
+  publisher={American Medical Association}
+}
+
+@inproceedings{albaina2009flowie,
+  title={Flowie: A persuasive virtual coach to motivate elderly individuals to walk},
+  author={Albaina, I{\~n}aki Merino and Visser, Thomas and van der Mast, Charles APG and Vastenburg, Martijn H},
+  booktitle={2009 3rd International Conference on Pervasive Computing Technologies for Healthcare},
+  pages={1--7},
+  year={2009},
+  organization={IEEE}
+}
+
+
 @article{power2011:obesity,
   title="Obesity, cardiovascular fitness, and physically active adolescents' motivations for activity: A self-determination theory approach",
   author="Thomas G Power and Sarah C Ullrich-French and Michael M Steele and Kenn B Daratha and Ruth C Bindler",
@@ -262,7 +350,17 @@
   month={October},
   year={2010},
   organization={ACM}
+}@article{pollak2010s,
+  title={It's time to eat! Using mobile games to promote healthy eating},
+  author={Pollak, John and Gay, Geri and Byrne, Sahara and Wagner, Emily and Retelny, Daniela and Humphreys, Lee},
+  journal={IEEE Pervasive Computing},
+  volume={9},
+  number={3},
+  pages={21--27},
+  year={2010},
+  publisher={IEEE}
 }
+
 
 @inproceedings{sambasivan2010human,
   title={The human infrastructure of ICTD},
@@ -548,6 +646,7 @@
   year={2008},
   publisher={ACM}
 }
+
 @inproceedings{katule2016leveraging,
   title={Leveraging Intermediated Interactions to Support Utilization of Persuasive Personal Health Informatics},
   author={Katule, Ntwa and Densmore, Melissa and Rivett, Ulrike},
