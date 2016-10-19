@@ -9,6 +9,56 @@
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@article{guh2009incidence,
+  title={The incidence of co-morbidities related to obesity and overweight: a systematic review and meta-analysis},
+  author={Guh, Daphne P and Zhang, Wei and Bansback, Nick and Amarsi, Zubin and Birmingham, C Laird and Anis, Aslam H},
+  journal={BMC public health},
+  volume={9},
+  number={1},
+  pages={1},
+  year={2009},
+  publisher={BioMed Central}
+}
+
+@article{de2000clinical,
+  title={Clinical Problems Caused by Obesity--Endotext},
+  author={De Groot, LJ and Beck-Peccoz, P and Chrousos, G and Dungan, K and Grossman, A and Hershman, JM and Koch, C and McLachlan, R and New, M and Rebar, R and others},
+  year={2000},
+  publisher={MDText. com, Inc.}
+}
+
+
+@article{steyn2006chronic,
+  title={Chronic diseases of lifestyle in South Africa: 1995--2005},
+  author={Steyn, K and Fourie, J and Temple, N},
+  journal={Cape Town: South African Medical Research Council},
+  pages={33--47},
+  year={2006}
+}
+
+@article{higgins2016smartphone,
+  title={Smartphone applications for patients' health and fitness},
+  author={Higgins, John P},
+  journal={The American journal of medicine},
+  volume={129},
+  number={1},
+  pages={11--19},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{handel2011mhealth,
+  title={mHealth (mobile health)—Using apps for health and wellness},
+  author={Handel, Marsha J},
+  journal={EXPLORE: The Journal of Science and Healing},
+  volume={7},
+  number={4},
+  pages={256--261},
+  year={2011},
+  publisher={Elsevier}
+}
+
+
 @incollection{silva2014:smartphones,
   TITLE="Smartphones, smart seniors, but not-so-smart apps: A heuristic evaluation of fitness apps",
   AUTHOR="Paula Alexandra Silva and Kelly Holden and Aska Nii",
