@@ -9,6 +9,18 @@
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@article{aarsand2012mobile,
+  title={Mobile health applications to assist patients with diabetes: lessons learned and design implications},
+  author={{\AA}rsand, Eirik and Fr{\o}island, Dag Helge and Skr{\o}vseth, Stein Olav and Chomutare, Taridzo and Tatara, Naoe and Hartvigsen, Gunnar and Tufano, James T},
+  journal={Journal of diabetes science and technology},
+  volume={6},
+  number={5},
+  pages={1197--1206},
+  year={2012},
+  publisher={SAGE Publications}
+}
+
+
 @article{guh2009incidence,
   title={The incidence of co-morbidities related to obesity and overweight: a systematic review and meta-analysis},
   author={Guh, Daphne P and Zhang, Wei and Bansback, Nick and Amarsi, Zubin and Birmingham, C Laird and Anis, Aslam H},
@@ -26,6 +38,18 @@
   year={2000},
   publisher={MDText. com, Inc.}
 }
+
+@article{quinn2008welldoc,
+  title={WellDoc™ mobile diabetes management randomized controlled trial: change in clinical and behavioral outcomes and patient and physician satisfaction},
+  author={Quinn, Charlene C and Clough, Suzanne Sysko and Minor, James M and Lender, Dan and Okafor, Maria C and Gruber-Baldini, Ann},
+  journal={Diabetes technology \& therapeutics},
+  volume={10},
+  number={3},
+  pages={160--168},
+  year={2008},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801-5215 USA}
+}
+
 
 
 @article{steyn2006chronic,
@@ -569,7 +593,17 @@
 
 
 @misc{heeks1999tyranny,
-  title={The tyranny of participation in information systems: Learning from development projects},
+  title={The tyranny of participation in information systems: Learning from development projects},@article{higgins2016smartphone,
+  title={Smartphone applications for patients' health and fitness},
+  author={Higgins, John P},
+  journal={The American journal of medicine},
+  volume={129},
+  number={1},
+  pages={11--19},
+  year={2016},
+  publisher={Elsevier}
+}
+
   author={Heeks, Richard},
   year={1999},
   publisher={Institute for Development Policy and Management, University of Manchester Manchester}
@@ -675,7 +709,6 @@
   publisher={ACM}
 }
 
-
 @book{deci1985intrinsic,
   title={Intrinsic motivation and self-determination in human behavior},
   author={Deci, Edward L and Ryan, Richard M},
@@ -703,7 +736,6 @@
   year={2000},
   publisher={American Psychological Association}
 }
-
 
 @article{zhang2008motivational,
   title={Technical opinion Motivational affordances: reasons for ICT design and use},
