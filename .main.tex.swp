@@ -216,7 +216,9 @@ The acknowledgements and the people to thank go here, don't forget to include yo
 \listofsymbols{ll} % Include a list of Abbreviations (a table of two columns)
 {
 \textbf{BBM} & \textbf{B}lack \textbf{B}erry \textbf{M}essenger \\
+\textbf{BMI} & \textbf{B}ody \textbf{M}ass \textbf{I}ndex \\
 \textbf{CHW} & \textbf{C}ommunity \textbf{H}ealth \textbf{W}orkets\\
+\textbf{GPS} & \textbf{G}lobal \textbf{P}ositioning \textbf{S}ystem\\
 \textbf{HCI} & \textbf{H}uman \textbf{C}omputer \textbf{I}nteraction\\
 \textbf{ICT} & \textbf{I}nformation and \textbf{C}ommunications \textbf{T}echnology \\
 \textbf{ICTD} & \textbf{I}nformation and \textbf{C}ommunications \textbf{T}echnology and \textbf{D}evelopment \\
@@ -297,9 +299,9 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 %\input{Chapters/Chapter5} 
 %\input{Chapters/Chapter6} 
 %\input{Chapters/Chapter7} 
-
+%
 %----------------------------------------------------------------------------------------
-%	THESIS CONTENT - APPENDICES
+%	THESIS CONTENT - APPENDICEShttps://www.facebook.com/
 %----------------------------------------------------------------------------------------
 
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
