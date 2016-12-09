@@ -9,6 +9,134 @@
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@article{orji2013lunchtime,
+  title={LunchTime: a slow-casual game for long-term dietary behavior change},
+  author={Orji, Rita and Vassileva, Julita and Mandryk, Regan L},
+  journal={Personal and Ubiquitous Computing},
+  volume={17},
+  number={6},
+  pages={1211--1221},
+  year={2013},
+  publisher={Springer}
+}
+
+@inproceedings{han2014designing,
+  title={Designing engaging camera based mobile games for implicit heart rate monitoring},
+  author={Han, Teng and Shi, Lanfei and Xiao, Xiang and Canny, John and Wang, Jingtao},
+  booktitle={Proceedings of the extended abstracts of the 32nd annual ACM conference on Human factors in computing systems},
+  pages={1675--1680},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{han2015balancing,
+  title={Balancing accuracy and fun: Designing camera based mobile games for implicit heart rate monitoring},
+  author={Han, Teng and Xiao, Xiang and Shi, Lanfei and Canny, John and Wang, Jingtao},
+  booktitle={Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},
+  pages={847--856},
+  year={2015},
+  organization={ACM}
+}
+
+
+@article{nicholson2012user,
+  title={A user-centered theoretical framework for meaningful gamification},
+  author={Nicholson, Scott},
+  journal={Games+ Learning+ Society},
+  volume={8},
+  number={1},
+  pages={223--230},
+  year={2012}
+}
+
+@inproceedings{forde2015informational,
+  title={Informational vs. Controlling Gamification: A Study Design},
+  author={Forde, Seamus F and Mekler, Elisa D and Opwis, Klaus},
+  booktitle={Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play},
+  pages={517--522},
+  year={2015},
+  organization={ACM}
+}
+
+@inproceedings{mekler2013disassembling,
+  title={Disassembling gamification: the effects of points and meaning on user motivation and performance},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={CHI'13 extended abstracts on human factors in computing systems},
+  pages={1137--1142},
+  year={2013},
+  organization={ACM}
+}
+
+@inproceedings{mekler2013points,
+  title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={Proceedings of the First International Conference on gameful design, research, and app@article{nicholson2012user,
+  title={A user-centered theoretical framework for meaningful gamification},
+  author={Nicholson, Scott},
+  journal={Games+ Learning+ Society},
+  volume={8},
+  number={1},
+  pages={223--230},
+  year={2012}
+}
+lications},
+  pages={66--73},
+  year={2013},
+  organization={ACM}
+}
+
+@article{deci1994facilitating,
+  title={Facilitating internalization: The self-determination theory perspective},
+  author={Deci, Edward L and Eghrari, Haleh and Patrick, Brian C and Leone, Dean R},
+  journal={Journal of personality},
+  volume={62},
+  number={1},
+  pages={119--142},
+  year={1994},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{mekler2013points,
+  title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
+  pages={66--73},
+  year={2013},
+  organization={ACM}
+}
+
+@article{premack1959toward,
+  title={Toward empirical behavior laws: I. Positive reinforcement.},
+  author={Premack, David},
+  journal={Psychological review},
+  volume={66},
+  number={4},
+  pages={219},
+  year={1959},
+  publisher={American Psychological Association}
+}
+
+@inproceedings{berkovsky2010physical,
+  title={Physical activity motivating games: virtual rewards for real activity},
+  author={Berkovsky, Shlomo and Coombe, Mac and Freyne, Jill and Bhandari, Dipak and Baghaei, Nilufar},
+  booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pages={243--252},
+  year={2010},
+  organization={ACM}
+}
+
+@article{svetkey2015cell,
+  title={Cell phone intervention for you (CITY): A randomized, controlled trial of behavioral weight loss intervention for young adults using mobile technology},
+  author={Svetkey, Laura P and Batch, Bryan C and Lin, Pao-Hwa and Intille, Stephen S and Corsino, Leonor and Tyson, Crystal C and Bosworth, Hayden B and Grambow, Steven C and Voils, Corrine and Loria, Catherine and others},
+  journal={Obesity},
+  volume={23},
+  number={11},
+  pages={2133--2141},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+
 @article{nakajima2013designing,
   title={Designing motivation using persuasive ambient mirrors},
   author={Nakajima, Tatsuo and Lehdonvirta, Vili},
@@ -125,7 +253,16 @@
   publisher={Elsevier}
 }
 
-
+@article{premack1959toward,
+  title={Toward empirical behavior laws: I. Positive reinforcement.},
+  author={Premack, David},
+  journal={Psychological review},
+  volume={66},
+  number={4},
+  pages={219},
+  year={1959},
+  publisher={American Psychological Association}
+}
 @incollection{silva2014:smartphones,
   TITLE="Smartphones, smart seniors, but not-so-smart apps: A heuristic evaluation of fitness apps",
   AUTHOR="Paula Alexandra Silva and Kelly Holden and Aska Nii",
@@ -203,7 +340,16 @@
   volume={18},
   number={7},
   pages={1667--1676},
-  year={2014},
+  year={2014},@article{premack1959toward,
+  title={Toward empirical behavior laws: I. Positive reinforcement.},
+  author={Premack, David},
+  journal={Psychological review},
+  volume={66},
+  number={4},
+  pages={219},
+  year={1959},
+  publisher={American Psychological Association}
+}
   publisher={Springer}
 }
 
@@ -706,8 +852,7 @@
 }
 
 
-@misc{heeks1999tyranny,
-  title={The tyranny of participation in information systems: Learning from development projects},@article{higgins2016smartphone,
+@article{higgins2016smartphone,
   title={Smartphone applications for patients' health and fitness},
   author={Higgins, John P},
   journal={The American journal of medicine},
@@ -718,6 +863,8 @@
   publisher={Elsevier}
 }
 
+@misc{heeks1999tyranny,
+  title={The tyranny of participation in information systems: Learning from development projects},
   author={Heeks, Richard},
   year={1999},
   publisher={Institute for Development Policy and Management, University of Manchester Manchester}
@@ -1039,7 +1186,15 @@
 	TITLE = "Social Motivations To Use Gamification: An Empirical Study Of Gamifying Exercise.",
 	BOOKTITLE = "ECIS",
 	PAGES = "105",
-	ORGANIZATION = "",
+	ORGANIZAT@inproceedings{mekler2013points,
+  title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
+  pages={66--73},
+  year={2013},
+  organization={ACM}
+}
+ION = "",
 	MONTH = "June", 
 	YEAR = {2013}	}
 
