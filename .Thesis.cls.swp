@@ -311,6 +311,7 @@
   \end{center}
 }
 %----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
 {
   \vfil\vfil\vfil\null
   \cleardoublepage
@@ -385,6 +386,12 @@
           \MakeUppercase\listsymbolname}{\MakeUppercase\listsymbolname}}
 \begin{longtable}[c]{#1}#2\end{longtable}\par
     \cleardoublepage
+}
+\newcommand\listofpubs[1]{
+\btypeout{List of }
+\thispagestyle{plain}
+\begin{flushleft}{#1}\end{flushleft}
+\cleardoublepage
 }
 \newcommand\listconstants{Physical Constants}
 \usepackage{longtable}

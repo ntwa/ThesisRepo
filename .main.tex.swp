@@ -40,6 +40,7 @@
 \usepackage{fixltx2e}
 \usepackage{enumerate}
 \usepackage{enumitem}
+\usepackage{bibentry}
 \def\SPSB#1#2{\rlap{\textsuperscript{\textcolor{red}{#1}}}\SB{#2}}
 \def\SP#1{\textsuperscript{\textcolor{black}{#1}}}
 \def\SB#1{\textsubscript{\textcolor{black}{#1}}}
@@ -190,18 +191,13 @@ Despite the success of gamification in increasing perceived competence of the hu
 
 \acknowledgements{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
-I would to acknowledge is my two supervisors. 
-I would like to acknowledge the Late Prof. Gary Marsden who was my main supervisor before his demise. May his soul rest in peace. Through him that is where I started to build the passion for human-computer interaction. He was more that just a supervisor. He welcome us as a group to his his home and we became like part of his family. I would like to also to acknowledge his widow, Gil Marsden together two children made us feel at home while in Cape Town.
+The first people to acknowledge are my research supervisors for their guidance and wisdom in my difficult PhD journey;Dr Melissa Densmore and Prof. Ulrike Rivett. I would like to extent my acknowledgement to the Late Prof. Gary Marsden who was my main supervisor before his demise. May his soul rest in peace. Through him that is where I started to build the passion for human-computer interaction. He was more that just a supervisor. He welcome us as a group to his his home and we became like part of his family. I would like to also to acknowledge his widow, Gil Marsden together two children made us feel at home while in Cape Town.
 
-I would also like to acknowledge all colleagues at ICTD Lab of University of Cape Town whom within their presence the lab was not only an academic environment but it we were like a one big family supporting each other. Special acknowledgements goes to Christopher Chepken, Raymond Mughwanya, Grace Ssekakubo, Richard Ssembatya, Mvurya Mgala, Muthoni Masinde, Shikoh Gitau, Thomas Reitmaier, Fritz, and many more whose names I have not mentioned here but I appreciate their contribution.
+I would also like to acknowledge all colleagues at ICT4D Lab, University of Cape Town (UCT) whom within their presence the lab was not only an academic environment but we were like one big family supporting each other. Special acknowledgements goes to Christopher Chepken, Raymond Mughwanya, Grace Ssekakubo, Richard Ssembatya, Mvurya Mgala, Thomas Reitmaier, and many more whose names I have not mentioned here but I appreciate their contribution. Also special acknowledgements goes to the ICOMMS research group of which of I was part of.  
 
-Also special acknowledgements goes to the ICOMMS research group of which of I was part of. 
- 
-I would also like to acknowledge my country mates at University Cape Town who made my stay in Cape Town appear like a home far from home.   
+I also acknowledge Craig Balfour, a system administrator at the department for his technical support on the infrastructure for hosting the application online. Special thanks also goes Eve Gill, the financial administrator at the Department of Computer Science for being effective in processing funds whenever they were required. Also I would like to thank HPI Research School and Centre of Excellence both at UCT for their generous scholarship, and travel and research grants that were very instrumental in facilitation of my PhD journey. My acknowledgement are extended Memalani NGO in Cape Town who played a role in recruitment of participants at some stage of role. In additional to Mamelani, special thanks go to Mrs Minah Radebe of Langa in  Cape Town and her field worker who were both very instrumental in assisting towards recruitment of participants and facilitation of evaluation in general.
 
-I would also like to thank Memalani NGO in Cape Town who played a role in recruitment of participants at some stage of role. In additional to Mamelani, special thanks go to Mrs Minah Radebe of Langa in  Cape Town who was also instrumental in assisting towards
-
-I also acknowledge Craig Baflor, a system administrator at Department of Computer Science at UCT for helping in creation of server space and all infrastructure resources that were required in hosting the researched application online. Special thanks also goes Eve Gill, the financial administrator at the Department of Computer Science for being effective in processing financial resources whenever they were required. Also I would like to thank HPI Research School and Centre of Excellence both at UCT for being providers of scholarships, travels grants, and research grants that were very instrumental in facilitation of my PhD journey. 
+The last group of people I would like to pass my acknowledgement are my country mates at University Cape Town who made my stay in Cape Town appear like a home far from home.   
 }
 \clearpage % Start a new page
 
@@ -250,19 +246,38 @@ I also acknowledge Craig Baflor, a system administrator at Department of Compute
 %\textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
 }
 
-
 %----------------------------------------------------------------------------------------
 %	DEDICATION
 %----------------------------------------------------------------------------------------
-
+\clearpage % Start a new page
 \setstretch{1.3} % Return the line spacing back to 1.3
 
 \pagestyle{empty} % Page style needs to be empty for this page
 
-\dedicatory{This work is dedicated to my great parents, my father, Andalwisye, and my late mother, Mary for supporting me throughout my academic journey\ldots} % Dedication text
+\dedicatory{This work is dedicated to my great parents, my father, Andalwisye, and my late mother, Mary for supporting me throughout my academic journey.} % Dedication text
+
 
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+\lhead{\emph{List of Publications}} % Set the left side page header to "Abbreviations"
+\listofpubs % Include a list of Abbreviations (a table of two columns)
+{
+\nobibliography*
+%\bibliographystyle{unsrt}
+  \section*{List of Publications}
+  \begin{enumerate}
+    \item \bibentry{katule2016leveraging}
+    \item \bibentry{katule2016family}
+  \end{enumerate}
+}
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - CHAPTERS
 %----------------------------------------------------------------------------------------
