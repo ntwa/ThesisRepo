@@ -291,24 +291,31 @@
 \newenvironment{abstract}
 {
   \btypeout{Abstract Page}
-  \thispagestyle{empty}
-  \null\vfil
-  \begin{center}
-    \setlength{\parskip}{0pt}
-    {\normalsize \UNIVNAME \par} % University name in capitals
-    \bigskip
-    {\huge{\textit{Abstract}} \par}
-    \bigskip
-    {\normalsize \facname \par} % Faculty name
-    {\normalsize \deptname \par} % Department name
-    \bigskip
-    {\normalsize \degreename\par} % Degree name
-    \bigskip
-    {\normalsize\bf \@title \par} % Thesis title
-    \medskip
-    {\normalsize by \authornames \par} % Author name
-    \bigskip
-  \end{center}
+  \thispagestyle{plain}
+  %\thispagestyle{empty}
+  %\null\vfil
+  %\begin{flushleft}
+    %\setlength{\parskip}{0pt}
+    %{\normalsize \UNIVNAME \par} % University name in capitals
+    %\bigskip
+    %{\huge{\textit{Abstract}} \par}
+    %\bigskip
+    %{\normalsize \facname \par} % Faculty name
+    %{\normalsize \deptname \par} % Department name
+    %\bigskip
+    %{\normalsize \degreename\par} % Degree name
+    %\bigskip
+    %{\normalsize\bf \@title \par} % Thesis title
+    %\medskip
+    %{\normalsize by \authornames \par} % Author name
+    %\bigskip
+  %\end{flushleft}
+}
+
+\newenvironment{abstractextension}
+{
+  \btypeout{Abstract Page Extension}
+  \thispagestyle{plain}
 }
 %----------------------------------------------------------------------------------------
 %----------------------------------------------------------------------------------------
@@ -388,11 +395,13 @@
     \cleardoublepage
 }
 \newcommand\listofpubs[1]{
-\btypeout{List of }
+\btypeout{List of Publications}
+\addtotoc{List of Publications}
 \thispagestyle{plain}
 \begin{flushleft}{#1}\end{flushleft}
 \cleardoublepage
 }
+
 \newcommand\listconstants{Physical Constants}
 \usepackage{longtable}
 \newcommand\listofconstants[2]{
@@ -424,6 +433,16 @@
 \vfil\vfil\null
 
 }
+%\newcommand\abstract[1]{
+%\btypeout{Abstract}
+%\addtotoc{Abstract}
+%\thispagestyle{plain}
+%\begin{flushleft}{\huge{\textbf{Abstract}} \par}\end{flushleft}
+%{\normalsize #1}
+%\vfil\vfil\null
+
+%}
+
 \newcommand\dedicatory[1]{
 \btypeout{Dedicatory}
 \thispagestyle{plain}

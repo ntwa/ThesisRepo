@@ -30,7 +30,7 @@
 \graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
 %\usepackage{apacite}
 \usepackage[comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
-
+\usepackage[english]{babel}
 %\usepackage{booktabs}
 %\usepackage{array}
 \usepackage{amsmath,array}
@@ -100,10 +100,15 @@
 \begin{flushleft} \large
 \emph{Author:}\\
 {\authornames} % Author name - remove the \href bracket to remove the link
+
+%MSc. Computer Science (UDSM), BSc. Computer Science and Applied Maths (UKZN)
+MSc.(UDSM), BSc.(UKZN)
 \end{flushleft}
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
+
+
 \emph{Supervisors:} \\
 {\supname} % Supervisor name - remove the \href bracket to remove the link  
 \end{flushright}
@@ -120,7 +125,7 @@
 \end{center}
 
 \end{titlepage}
-
+\clearpage
 %----------------------------------------------------------------------------------------
 %	DECLARATION PAGE
 %	Your institution may give you a different text to place here
@@ -147,45 +152,41 @@ Signed:\\
 Date:\\
 \rule[1em]{25em}{0.5pt} % This prints a line to write the date
 }
-
-\clearpage % Start a new page
-
-%----------------------------------------------------------------------------------------
-%	QUOTATION PAGE
-%----------------------------------------------------------------------------------------
-
-\pagestyle{empty} % No headers or footers for the following pages
-
-\null\vfill % Add some space to move the quote down the page a bit
-
-\textit{``Education is what remains after one has forgotten what one has learned in school.''}
-
 \begin{flushright}
-Albert Einstein
 \end{flushright}
-
-\vfill\vfill\vfill\vfill\vfill\vfill\null % Add some space at the bottom to position the quote just right
-
-\clearpage % Start a new page
-
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
+\clearpage % Start a new page
 
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abstract}} % Set the left side page header to
 \addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
 
 \abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
-There is an increasing prevalence of chronic diseases that are associated with living unhealthy lifestyle in both developed and developing world contexts. In order to help combat this unfavourable trend, public health researchers are advocating towards shifting care to the hands of citizens through utilization of personalized interventions . The objective of these initiatives is to support individuals beyond the point of care. ICTs, specifically mobile phones coupled with sophisticated persuasive mechanisms such as gamification or simple strategies such as SMS reminders provide an opportune platform for delivery of personalized interventions that target health behaviour change. In order to support delivery of such personalized interventions, researchers in human-computer interaction have developed an area of research referred to as personal informatics, which focuses on data collection and feedback mechanisms. These approaches aim at supporting individuals to be able to quantify different aspects of their lives through self-reflection. These systems have been developed with motivational affordance to sustain their utilization by end users. However, such systems are developed with only one user in mind of which is a direct user of technology. Such systems may not scale well in contexts of indirect users of technology, meaning people who use technology through a facilitation of a human interface (intermediary user) situated between indirect users (beneficiaries of technology) and technology. Therefore, there was a need to explore how motivational affordance of a personal health informatics could be extended to work in the context of an interaction that requires a collaboration that leads to indirect usage. This was a collaboration between the person helping and the person being helped.
+\begin{flushleft}{\huge{\textbf{Abstract}} \par}\end{flushleft}
+There is an increasing prevalence of chronic diseases that are associated with living unhealthy lifestyle in both developed and developing world contexts. In order to help combat this unfavourable trend, public health researchers are advocating towards shifting care to the hands of citizens through utilization of personalized interventions . The objective of these initiatives is to support individuals beyond the point of care. ICTs, specifically mobile phones coupled with sophisticated persuasive mechanisms such as gamification or simple strategies such as SMS reminders provide an opportune platform for delivery of personalized interventions that target health behaviour change. In order to support delivery of such personalized interventions, researchers in human-computer interaction have developed an area of research referred to as personal informatics, which focuses on data collection and feedback mechanisms. These approaches aim at supporting individuals to be able to quantify different aspects of their lives through self-reflection. These systems have been developed with motivational affordances to sustain their utilization by end users. However, such systems are developed with only one user in mind of which is a direct user of technology. Such systems may not scale well in contexts of indirect users of technology, meaning people who use technology through a facilitation of a human interface (intermediary user) situated between indirect users (beneficiaries of technology) and technology. Therefore, there was a need to explore how motivational affordance of a personal health informatics could be extended to work in the context of an interaction that requires a collaboration that leads to indirect usage. This was a collaboration between the person helping and the person being helped.
 
-In order to understand design implications for indirect technology use in the context of a personal health informatics, several approaches were used to understand social dynamics that could affect utilization of technology through a human interface in between indirect users and technology. Prototypes of mobile self monitoring applications for physical activity and diet were developed and used as the starting point for uncovering unknown issues. As the result of evaluation of the aforementioned prototypes , the researcher suggested both social technical arrangements and prerequisites that increase the likelihood of success in utilization of such interventions. 
+In order to understand design implications for indirect technology use in the context of a personal health informatics, several approaches were used to understand social dynamics that could affect utilization of technology through a human interface in between indirect users and technology. Prototypes of mobile self monitoring applications for physical activity and diet were developed and used as the starting point for uncovering unknown issues. As the result of evaluation of the aforementioned prototypes, the researcher suggested both social technical arrangements and prerequisites that increase the likelihood of success in utilization of such interventions. 
+}
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
 
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abstract}} % Set the left side page header to
+%\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 One of the important social technical arrangement was a prior social relationship between a human interface and a beneficiary of technology through a human interface. Self-determination theory was used to understand how motivation for collaboration between the two sets of users (the human interface and beneficiary user of technology ) could be enhanced. Gamification, a design pattern inspired by games  was found to be the source of a significant increase in perceived competence, an aspect of self-determination theory. Therefore, gamification was found to be a catalyst for increasing collaboration between a human interface and beneficiary user of technology provided that the two users that form a pair had a prior social relationship. The collaborative gamified system showed promising results towards utilization of personal health informatics in the context of indirect usage. The most promising combination of a human interface and beneficiary user is the one that entails family members, possibly a child and a parent.
 
 Despite the success of gamification in increasing perceived competence of the human interface, and hence collaboration between a human interface and beneficiary user, there are some design implications that need to be taken into consideration in order to understand how internalization of collaboration between two members of a pair working together could be improved. This entails exploration of features that support task mastery climate versus those that support ego-involved. Future research could also explore how different styles of parenting could affect the way the intervention is perceived by the two sets of users.
 }
 
-\clearpage % Start a new page
-
+\clearpage
 %----------------------------------------------------------------------------------------
 %	ACKNOWLEDGEMENTS
 %----------------------------------------------------------------------------------------
@@ -197,7 +198,7 @@ The first people I am grateful to are my research supervisors for their guidance
 
 Also I would like to thank HPI Research School and Centre of Excellence both at UCT for their generous scholarship, and travel and research grants that were very instrumental in facilitation of my PhD journey. My acknowledgement are extended Memalani NGO in Cape Town who played a role in recruitment of participants at some stage of role. In additional to Mamelani, special acknowledgement goes to Minah Radebe of Langa in  Cape Town and her field worker who were both very instrumental in assisting towards recruitment of participants and facilitation of evaluation in general.
 
-The acknowledgements extend to all my fellow students at ICT4D Lab -- University of Cape Town (UCT) whom within their presence the lab was not only an academic environment but a large social support group. To mention for individuals, special acknowledgement goes to Christopher Chepken, Raymond Mughwanya, Grace Ssekakubo, Richard Ssembatya, Mvurya Mgala, Thomas Reitmaier, and many more whose names I have not mentioned here but I appreciate their contribution. Also special acknowledgements goes to the ICOMMS research group of which I was part of. I would also like to pass my acknowledgement are my country mates at University Cape Town who made my stay in Cape Town appear like a home far from home.   
+The acknowledgements extend to all my fellow students at ICT4D Lab -- University of Cape Town (UCT) whom within their presence the lab was not only an academic environment but a large social support group; just to mention few individuals, special acknowledgement goes to Christopher Chepken, Raymond Mughwanya, Grace Ssekakubo, Richard Ssembatya, Mvurya Mgala, Thomas Reitmaier, and many more whose names I have not mentioned here but I appreciate their contribution. Also special acknowledgements goes to the ICOMMS research group of which I was part of. I would also like to pass my acknowledgement are my country mates at University Cape Town who made my stay in Cape Town appear like a home far from home.   
 
 I also acknowledge Craig Balfour, a system administrator at the department for his technical support on the infrastructure for hosting the application online. Special thanks also goes Eve Gill, the financial administrator at the Department of Computer Science for being effective in processing funds whenever they were required. 
 
@@ -237,8 +238,9 @@ Last but not least, my gratitude is to my wife (Lulu) and son (Lucas) for their 
 \textbf{CHW} & \textbf{C}ommunity \textbf{H}ealth \textbf{W}orkers\\
 \textbf{GPS} & \textbf{G}lobal \textbf{P}ositioning \textbf{S}ystem\\
 \textbf{HCI} & \textbf{H}uman \textbf{C}omputer \textbf{I}nteraction\\
-\textbf{ICT} & \textbf{I}nformation and \textbf{C}ommunications \textbf{T}echnology \\
-\textbf{ICTD} & \textbf{I}nformation and \textbf{C}ommunications \textbf{T}echnology and \textbf{D}evelopment\\
+\textbf{ICT} & \textbf{I}nformation and \textbf{C}ommunication \textbf{T}echnology \\
+\textbf{ICTD} & \textbf{I}nformation and \textbf{C}ommunication \textbf{T}echnology and \textbf{D}evelopment\\
+\textbf{IMI} & \textbf{I}ntrinsic \textbf{M}otivation \textbf{I}nventory\\
 \textbf{MMS} & \textbf{M}ultimedia \textbf{M}essaging \textbf{S}ervice\\
 \textbf{NEAT} & \textbf{N}on-\textbf{E}xercise \textbf{A}ctivity \textbf{T}hermogenesis\\
 \textbf{PDA} & \textbf{P}ersonal \textbf{D}igital \textbf{A}ssistant\\
@@ -259,7 +261,7 @@ Last but not least, my gratitude is to my wife (Lulu) and son (Lucas) for their 
 
 \pagestyle{empty} % Page style needs to be empty for this page
 
-\dedicatory{This work is dedicated to my great parents, my father, Andalwisye, and my late mother, Mary for supporting me throughout my academic journey.} % Dedication text
+\dedicatory{This work is dedicated to my parents, father (Prof. Andalwisye Katule), and mother (RIP Mary Katule), lovely wife (Lulu), and lovely son (Lucas Andalwisye)} % Dedication text
 
 
 
@@ -303,41 +305,41 @@ Last but not least, my gratitude is to my wife (Lulu) and son (Lucas) for their 
 \input{Chapters/Prototype2Chapter}
 \input{Chapters/SummaEvalChapter}
 \input{Chapters/Conclusion} 
-%\input{Chapters/Chapter5} 
+\input{Chapters/References} 
 %\input{Chapters/Chapter6} 
 %\input{Chapters/Chapter7} 
 %
+
+\backmatter
+
+
+\clearpage
+\lhead{Chapter \emph{References}} % This is for the header on each page - perhaps a shortened title
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+\label{Bibliography}
+\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
+\bibliographystyle{apalike}
+\bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
+%\begin{flushright}
+%\end{flushright}
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
 %----------------------------------------------------------------------------------------
-
-\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 
 \appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
 
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
 
-%\input{Appendices/AppendixA}
-%\input{Appendices/AppendixB}
+\input{Appendices/AppendixA}
+\input{Appendices/AppendixB}
 \input{Appendices/AppendixC}
 \input{Appendices/AppendixD}
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics\textbf{}
 
-\backmatter
 
-%----------------------------------------------------------------------------------------
-%	BIBLIOGRAPHY
-%----------------------------------------------------------------------------------------
-
-\label{Bibliography}
-
-\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
-
-\bibliographystyle{unsrtnat} % Use the "unsrtnat" BibTeX style for formatting the Bibliography
-%\bibliographystyle{apa}
-%\bibliographystyle{apacite}
-\bibliographystyle{apalike}
-\bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
 
 \end{document}  

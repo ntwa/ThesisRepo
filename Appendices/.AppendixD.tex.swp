@@ -1,0 +1,23 @@
+% Appendix A
+
+\chapter{Appendix D. Midpoint and Endpoint Questionnaires} % Main appendix title
+\clearpage
+\label{AppendixD} % For referencing this appendix elsewhere, use \ref{AppendixA}
+
+\lhead{Appendix A. \emph{Midpoint and Endpoint Questionnaires}} % This is for the header on each page - perhaps a shortened title
+\includepdf[pages=-,frame,pagecommand={},width=\textwidth,offset=90 0]{Pdfs/midpoint_ben.pdf}
+\clearpage
+\includepdf[pages=-,frame,pagecommand={},width=\textwidth,offset=90 0]{Pdfs/midpoint_interm.pdf}
+
+%\newcommand{\insertrep}[1]{%
+%\hspace{-2.4cm}
+%\fbox{\includegraphics[page=1,scale=0.8]{#1}}
+%\includegraphics[page=1,scale=0.8]{#1}
+%\includepdf[scale=0.75,pages=1,frame]{#1}
+%}
+
+%\subsection{Interesting Letter}
+%\insertrep{Pdfs/baseline_ben.pdf}
+%\begin{center}
+%\includepdf[pagecommand={},scale=0.9]{Pdfs/baseline_ben.pdf} 
+%\end{center}
