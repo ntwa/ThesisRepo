@@ -8,6 +8,15 @@
   year={2009},
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
+@inproceedings{smyth2010there,
+  title={Where there's a will there's a way: mobile media sharing in urban india},
+  author={Smyth, Thomas N and Kumar, Satish and Medhi, Indrani and Toyama, Kentaro},
+  booktitle={Proceedings of the SIGCHI conference on Human Factors in Computing Systems},
+  pages={753--762},
+  year={2010},
+  organization={ACM}
+}
+
 
 @inproceedings{ferro2013towards,
   title={Towards personalised, gamified systems: an investigation into game design, personality and player typologies},
@@ -16,6 +25,16 @@
   pages={7},
   year={2013},
   organization={ACM}
+}
+@article{svetkey2015cell,
+  title={Cell phone intervention for you (CITY): A randomized, controlled trial of behavioral weight loss intervention for young adults using mobile technology},
+  author={Svetkey, Laura P and Batch, Bryan C and Lin, Pao-Hwa and Intille, Stephen S and Corsino, Leonor and Tyson, Crystal C and Bosworth, Hayden B and Grambow, Steven C and Voils, Corrine and Loria, Catherine and others},
+  journal={Obesity},
+  volume={23},
+  number={11},
+  pages={2133--2141},
+  year={2015},
+  publisher={Wiley Online Library}
 }
 
 
@@ -155,6 +174,18 @@
   publisher={Springer}
 }
 
+@article{carstensen2011emotional,
+  title={Emotional experience improves with age: evidence based on over 10 years of experience sampling.},
+  author={Carstensen, Laura L and Turan, Bulent and Scheibe, Susanne and Ram, Nilam and Ersner-Hershfield, Hal and Samanez-Larkin, Gregory R and Brooks, Kathryn P and Nesselroade, John R},
+  journal={Psychology and aging},
+  volume={26},
+  number={1},
+  pages={21},
+  year={2011},
+  publisher={American Psychological Association}
+}
+
+
 @inproceedings{orji2013:tailoring,
   title="Tailoring persuasive health games to gamer type",
   author="Rita Orji and Regan L Mandryk and Julita Vassileva and Kathrin M Gerling",
@@ -213,7 +244,14 @@
 @inproceedings{mekler2013points,
   title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
   author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
-  booktitle={Proceedings of the First International Conference on gameful design, research, and app@article{nicholson2012user,
+  booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
+  pages={66-73},
+  year={2013},
+  organization={ACM}
+}
+
+
+@article{nicholson2012user,
   title={A user-centered theoretical framework for meaningful gamification},
   author={Nicholson, Scott},
   journal={Games+ Learning+ Society},
@@ -221,11 +259,6 @@
   number={1},
   pages={223-230},
   year={2012}
-}
-lications},
-  pages={66-73},
-  year={2013},
-  organization={ACM}
 }
 
 @article{deci1994facilitating,
@@ -521,7 +554,10 @@ lications},
   volume={18},
   number={7},
   pages={1667-1676},
-  year={2014},@article{premack1959toward,
+  year={2014},
+  publisher={Springer}
+}
+@article{premack1959toward,
   title={Toward empirical behavior laws: I. Positive reinforcement.},
   author={Premack, David},
   journal={Psychological review},
@@ -530,8 +566,6 @@ lications},
   pages={219},
   year={1959},
   publisher={American Psychological Association}
-}
-  publisher={Springer}
 }
 
 @article{blackman2016developing,
@@ -1007,6 +1041,10 @@ lications},
   publisher={Soc Epidemiolc Res}
 }
 
+
+
+
+
 @article{fjeldsoe2009behavior,
   title={Behavior change interventions delivered by mobile telephone short-message service},
   author={Fjeldsoe, Brianna S and Marshall, Alison L and Miller, Yvette D},
@@ -1129,6 +1167,16 @@ lications},
   ORGANIZATION={Citeseer}
 }
 
+@inproceedings{consolvo2008activity,
+  title={Activity sensing in the wild: a field trial of ubifit garden},
+  author={Consolvo, Sunny and McDonald, David W and Toscos, Tammy and Chen, Mike Y and Froehlich, Jon and Harrison, Beverly and Klasnja, Predrag and LaMarca, Anthony and LeGrand, Louis and Libby, Ryan and others},
+  booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pages={1797--1806},
+  year={2008},
+  organization={ACM}
+}
+
+
 @incollection{lin2006:fish,
   TITLE="Fish'n'Steps: Encouraging physical activity with an interactive computer game",
   AUTHOR="James J Lin and Lena Mamykina and Silvia Lindtner,  and Gregory Delajoux and Henry B Strub",
@@ -1186,15 +1234,6 @@ lications},
   pages={145-147},
   year={2008},
   publisher={ACM}
-}
-
-@inproceedings{katule2016leveraging,
-  title={Leveraging Intermediated Interactions to Support Utilization of Persuasive Personal Health Informatics},
-  author={Katule, Ntwa and Densmore, Melissa and Rivett, Ulrike},
-  booktitle={Proceedings of the Eighth International Conference on Information and Communication Technologies and Development},
-  pages={19},
-  year={2016},
-  organization={ACM}
 }
 
 @inproceedings{korhonen2010personal,
@@ -1272,6 +1311,7 @@ lications},
 	PAGES = {485–500},
 	MONTH = "March",
 	YEAR = {2009}	}
+
 @article{arteaga2010:persuasive,
   title="Persuasive mobile exercise companion for teenagers with weight management issues",
   author="Sonia Arteaga",
@@ -1365,7 +1405,11 @@ lications},
 	TITLE = "Social Motivations To Use Gamification: An Empirical Study Of Gamifying Exercise.",
 	BOOKTITLE = "ECIS",
 	PAGES = "105",
-	ORGANIZAT@inproceedings{mekler2013points,
+	ORGANIZATION = "",
+	MONTH = "June", 
+	YEAR = {2013}	}
+
+@inproceedings{mekler2013points,
   title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
   author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
   booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
@@ -1373,9 +1417,6 @@ lications},
   year={2013},
   organization={ACM}
 }
-ION = "",
-	MONTH = "June", 
-	YEAR = {2013}	}
 
 
 @INCOLLECTION{hamari2014persuasive,
@@ -1623,7 +1664,8 @@ Key       = {}
 	NUMBER = {2},
 	PAGES = {171-178},
 	MONTH = "March",
-	YEAR = {2009}	}
+	YEAR = {2009}	
+}
 
 @techreport{Steyn2006,
 	author = "K Steyn and J Fourie and N Temple",
@@ -1700,4 +1742,33 @@ Key       = {}
   year={2014},
   month="August",
   publisher={Emerald Group Publishing Limited}
+}
+
+@article{csikszentmihalyiflow,
+  title={A review of \emph{a book (Flow: Psychology of Optimal Experience.)} by {Mihalyi Csikszentmihalyi} },
+  author="Dev Kumar Bose",
+  journal="Information Design Journal",
+  number="16",
+  volume="1",
+  pages="76-83",
+  year="2008"
+  
+}
+
+@inproceedings{katule2016leveraging,
+  title={Leveraging Intermediated Interactions to Support Utilization of Persuasive Personal Health Informatics},
+  author={Katule, Ntwa and Densmore, Melissa and Rivett, Ulrike},
+  booktitle={Proceedings of the Eighth International Conference on Information and Communication Technologies and Development},
+  pages={19},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{katule2016family,
+  title={A Family Health App: Engaging Children to Manage Wellness of Adults},
+  author="Ntwa Katule and Ulrike Rivett and Melissa Densmore",
+  booktitle="Proceedings of the 7th Annual Symposium on Computing for Development",
+  pages={7},
+  year="2016",
+  organization="ACM"
 }
