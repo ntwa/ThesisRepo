@@ -8,6 +8,25 @@
   year={2009},
   publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
 }
+@article{anokwa2009stories,
+  title={Stories from the field: Reflections on HCI4D experiences},
+  author={Anokwa, Yaw and Smyth, Thomas N and Ramachandran, Divya and Sherwani, Jahanzeb and Schwartzman, Yael and Luk, Rowena and Ho, Melissa and Moraveji, Neema and DeRenzi, Brian},
+  journal={Information Technologies \& International Development},
+  volume={5},
+  number={4},
+  pages={pp--101},
+  year={2009}
+}
+@article{burrell2009constitutes,
+  title={What constitutes good ICTD research},
+  author={Burrell, Jenna and Toyama, Kentaro},
+  journal={Information Technologies and International Development},
+  volume={5},
+  number={3},
+  pages={82--94},
+  year={2009}
+}
+
 @inproceedings{smyth2010there,
   title={Where there's a will there's a way: mobile media sharing in urban india},
   author={Smyth, Thomas N and Kumar, Satish and Medhi, Indrani and Toyama, Kentaro},
@@ -1771,4 +1790,12 @@ Key       = {}
   pages={7},
   year="2016",
   organization="ACM"
+}
+
+@misc{sdtweb,
+  title={Intrinsic Motivation Inventory (IMI)},
+  author={Deci, E},
+  year={2017},
+  %note = {Available online at \url{http://selfdeterminationtheory.org/intrinsic-motivation-inventory/}}
+ %note = "[Online; accessed 19-July-2008]"
 }

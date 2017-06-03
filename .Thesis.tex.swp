@@ -42,6 +42,17 @@
 \usepackage{enumitem}
 \usepackage{bibentry}
 \usepackage{pdfpages}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{lipsum}
+\mdfdefinestyle{MyFrame}{%
+    linecolor=black,
+    outerlinewidth=2pt,
+    roundcorner=2pt,
+    innertopmargin=\baselineskip,
+    innerbottommargin=\baselineskip,
+    innerrightmargin=20pt,
+    innerleftmargin=20pt,
+    backgroundcolor=gray!50!white}
 \def\SPSB#1#2{\rlap{\textsuperscript{\textcolor{red}{#1}}}\SB{#2}}
 \def\SP#1{\textsuperscript{\textcolor{black}{#1}}}
 \def\SB#1{\textsubscript{\textcolor{black}{#1}}}
